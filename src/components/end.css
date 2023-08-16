@@ -1,0 +1,52 @@
+.end {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.card-container{
+  width: 20rem;
+  border-radius: 2rem;
+  box-shadow: 0px 10px 8px coral;
+  display: inline-block;
+  flex-direction: column;
+  margin: 90px;
+  background-color: aliceblue;
+  
+}
+
+.card-img{
+  width: 100%;
+  border-radius: 1rem 1rem 0 0;
+
+}
+
+.card-title, .card-description{
+  margin: 0.5rem 5%;
+  padding-top: 1px;
+}
+
+.card-btn{
+  width: 60%;
+  border-radius: 9px;
+  padding: 0.1rem;
+  margin: 0.3rem;
+  margin-left: 60px;
+}
+
+.card-btn1{
+  width: 60%;
+  border-radius: 9px;
+  padding: 0.1rem;
+  margin: 0.3rem;
+  margin-left: 60px;
+  
+  
+}
+
+
+.card-description1{
+  padding-bottom: 100px;
+  margin: 0.5rem 5%;
+  padding-top: 1px;
+}
