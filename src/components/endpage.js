@@ -32,7 +32,7 @@ const Endpage = () => {
         <div className='card-container'>
         <img src='./images/broke.png' alt='broke' className='card-img'/>
         <h1 className='card-title'>Broke Buster</h1>
-        <p className='card-description'>This was a group project where we create an app where you can post your favorite movie and make comments under them. It have a login and registration with an one-to-many and many-to-many relationship with ERD models. </p>
+        <p className='card-description'>This was a group project where we create an app where you can post your favorite movie.</p>
         <button className='card-btn'>Python</button>
         <button className='card-btn'>Flask</button>
         <button className='card-btn'>MySQL</button>
