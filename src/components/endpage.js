@@ -18,12 +18,13 @@ const Endpage = () => {
 
         
         <div className='card-container'>
-        <img src='./images/profile.png' alt='Portfolio' className='card-img'/>
-        <h1 className='card-title'>Portfolio</h1>
-        <p className='card-description1'>I made this app to showcase my work and my talent</p>
+        <img src='./images/music.png' alt='Portfolio' className='card-img'/>
+        <h1 className='card-title'>Music Festival</h1>
+        <p className='card-description1'>I made this app to showcase a music festival with a music lineup and tickets.</p>
         <div className='card'>
         <button className='card-btn1'>React.Js</button>
         <button className='card-btn1'>JavaScript</button>
+        <button className='card-btn1'>CSS Tailwind</button>
         </div>
       </div>
         
