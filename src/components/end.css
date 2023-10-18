@@ -11,7 +11,7 @@
   display: inline-block;
   flex-direction: column;
   margin: 90px;
-  background-color: aliceblue;
+  background-color: rgb(235, 238, 240);
   
 }
 
@@ -46,7 +46,7 @@
 
 
 .card-description1{
-  padding-bottom: 110px;
+  padding-bottom: 90px;
   margin: 0.5rem 5%;
   padding-top: 1px;
 }
