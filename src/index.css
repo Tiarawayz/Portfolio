@@ -24,14 +24,14 @@ header{
 
 header .logo{
   font-size: 30px;
-  color: rgb(226, 154, 29);
+  color: rgb(72, 122, 85);
   text-decoration: none;
 }
 
 .display-menu .menu{
   padding: 0 15px;
   text-decoration: none;
-  color: rgb(226, 154, 29);
+  color: rgb(72, 122, 85);
 }
 
 header .display-menu{
