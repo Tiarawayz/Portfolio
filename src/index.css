@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(132, 99, 66);
+  background-color: rgb(119, 80, 25);
 }
 
 code {
@@ -24,14 +24,14 @@ header{
 
 header .logo{
   font-size: 30px;
-  color: rgb(72, 122, 85);
+  color: rgb(117, 172, 131);
   text-decoration: none;
 }
 
 .display-menu .menu{
   padding: 0 15px;
   text-decoration: none;
-  color: rgb(72, 122, 85);
+  color: rgb(117, 172, 131);
 }
 
 header .display-menu{
