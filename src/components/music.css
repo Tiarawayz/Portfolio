@@ -1,0 +1,36 @@
+.note{
+  text-align: center;
+  margin-bottom: 90px;
+  background-color: rgb(117, 172, 131);
+  padding-bottom: 450px;
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+
+.music{
+  width: 35%;
+  float: left;
+}
+
+.youtube{
+  width: 80%;
+  left: 15%;
+  padding-top: 40px;
+  margin-left: 150px;
+}
+
+.last{
+  width: 35%;
+  float: right;
+}
+
+
+.me{
+  margin-left: 30px;
+  float: right;
+  padding-top: 90px;
+}
+
+
+
+
