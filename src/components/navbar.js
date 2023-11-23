@@ -10,7 +10,7 @@ const Navbar = () => {
       
         <div className='display-menu'>
           <Link className='menu' to='/about'>About Me</Link>
-          <Link className='menu' to='/contact'>Contact</Link>
+          {/* <Link className='menu' to='/contact'>Contact</Link> */}
         </div>
       
 
