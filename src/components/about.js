@@ -11,7 +11,7 @@ const About = () => {
 
       <div>
         <h1>Resume</h1>
-        <img src='./images/work2.png' alt='resume'></img>
+        <img src='./images/work2.png' alt='resum'></img>
 
       </div>
     </div>
